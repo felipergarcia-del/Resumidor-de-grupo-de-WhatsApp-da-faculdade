@@ -1,7 +1,7 @@
 # Assistente de avisos de grupo de turma
 
 Marco 1 de Engenharia de Prompts, LLMs e Uso Ético e Seguro (IESB, 2026/2)
-Prof. Rodrigo Gonçalves · Aluno: [seu nome] · Turma: [sua turma]
+Prof. Rodrigo Gonçalves · Aluno: Felipe Ribeiro Garcia · Turma: ENGIADM1A
 
 ## O problema
 Em grupos de WhatsApp da turma, avisos importantes (prova, prazo, mudança de sala)
@@ -12,7 +12,7 @@ ou não confirmado) e o trecho que comprova.
 ## O que tem aqui
 - `relatorio/marco1_relatorio.pdf`: relatório do Marco 1
 - `prompts/`: prompts por técnica e versão (zero-shot v1, few-shot com guardrail v2) e `HISTORICO.md`
-- `testes/casos_de_teste.xlsx`: 8 casos com gabarito e registro de avaliação
+- `Casos_de_teste.txt`: 8 casos com gabarito e registro de avaliação
 - `AUTORES.md`: autoria e log de contribuição
 
 ## Como reproduzir
