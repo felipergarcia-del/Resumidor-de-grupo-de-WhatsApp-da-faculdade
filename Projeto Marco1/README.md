@@ -10,10 +10,10 @@ uma tabela com os avisos, o status final de cada um (vigente, corrigido, cancela
 ou não confirmado) e o trecho que comprova.
 
 ## O que tem aqui
-- `relatorio/marco1_relatorio.pdf`: relatório do Marco 1
+- `Relatorio_Marco1`: relatório do Marco 1
 - `prompts/`: prompts por técnica e versão (zero-shot v1, few-shot com guardrail v2) e `HISTORICO.md`
-- `testes/casos_de_teste.xlsx`: 8 casos com gabarito e registro de avaliação
-- `AUTORES.md`: autoria e log de contribuição
+- `Casos_de_teste`: 8 casos com gabarito e registro de avaliação
+- `AUTOR.md`: autoria e log de contribuição
 
 ## Como reproduzir
 1. Abra um chat de LLM de acesso gratuito (ChatGPT, Claude etc.).
