@@ -12,8 +12,8 @@ ou não confirmado) e o trecho que comprova.
 ## O que tem aqui
 - `relatorio/marco1_relatorio.pdf`: relatório do Marco 1
 - `prompts/`: prompts por técnica e versão (zero-shot v1, few-shot com guardrail v2) e `HISTORICO.md`
-- `Casos_de_teste.txt`: 8 casos com gabarito e registro de avaliação
-- `AUTOR.md`: autoria
+- `testes/casos_de_teste.xlsx`: 8 casos com gabarito e registro de avaliação
+- `AUTORES.md`: autoria e log de contribuição
 
 ## Como reproduzir
 1. Abra um chat de LLM de acesso gratuito (ChatGPT, Claude etc.).
