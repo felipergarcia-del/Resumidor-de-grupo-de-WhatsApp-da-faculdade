@@ -1,0 +1,133 @@
+Modelo: ChatGPT
+Data de Execução: 11/11/2026
+
+
+--- CASO 01 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [ALTA] - Trabalho final: O professor Rodrigo informou que o roteiro já está disponível no sistema e que a entrega será no dia 20.
+
+- [BAIXA] - Convite para lanche: Lucas convidou os colegas para comer um podrão após a aula, e Thiago confirmou presença.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA ALTA] - Assunto: Disponibilização do roteiro do trabalho final no sistema e prazo de entrega para o dia 20 (Aviso do Professor).
+
+[IMPORTANCIA BAIXA] - Assunto: Convite para comer um podrão depois da aula hoje (Conversa paralela).
+
+
+
+--- CASO 02 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [MÉDIA] - Anotações sobre matrizes: Letícia solicitou as anotações do conteúdo explicado pelo professor no final da aula. Carlos informou que fotografou o quadro e compartilhou a imagem.
+
+- [BAIXA] - Figurinha de bom dia: Roberto enviou uma figurinha de bom dia com café, sem relevância acadêmica.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA MÉDIA] - Assunto: Compartilhamento de foto do quadro com anotações sobre matrizes para auxiliar os alunos que não conseguiram registrar o conteúdo da aula.
+
+[IMPORTANCIA BAIXA] - Assunto: Figurinha de bom dia com café (Ruído).
+
+
+
+--- CASO 03 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [ALTA] - Mudança de sala: A coordenação informou que a aula de Engenharia de Prompts de hoje foi transferida da sala JB3 para o laboratório IA3. Marcos e Felipe foram avisados da alteração.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA ALTA] - Assunto: Mudança oficial da aula de Engenharia de Prompts de hoje da sala JB3 para o laboratório IA3 (Aviso da Coordenação).
+
+
+
+--- CASO 04 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [ALTA] - Notas da P1: O professor Rodrigo informou que as notas da primeira prova já estão disponíveis no portal. A revisão será realizada na próxima aula.
+
+- [MÉDIA] - Desempenho na P1: Diego relatou ter tirado nota 4,5 e comentou que precisará fazer a P3.
+
+- [BAIXA] - Convite para jogar CS: Diego convidou os colegas para jogar Counter-Strike, e Bruno confirmou participação.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA ALTA] - Assunto: Notas da P1 disponibilizadas no portal e aviso de revisão na próxima aula (Comunicado do Professor).
+
+[IMPORTANCIA BAIXA] - Assunto: Conversa sobre jogar CS para distrair após o resultado da prova (Conversa paralela).
+
+
+
+--- CASO 05 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [MÉDIA] - Dúvida sobre cancelamento da prova: Pedro perguntou se a prova de amanhã havia sido cancelada. Julia esclareceu que não houve nenhum comunicado oficial do professor. Portanto, a prova continua prevista, sem confirmação de cancelamento.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA MÉDIA] - Assunto: Dúvida sobre possível cancelamento da prova de amanhã, sem confirmação de comunicado oficial do professor.
+
+
+
+--- CASO 06 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [BAIXA] - Brincadeira sobre reprovação: Felipe fingiu ser o reitor e anunciou, em tom de piada, que todos estavam reprovados. Caio e Amanda reagiram à brincadeira. Não houve nenhum comunicado acadêmico oficial.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA BAIXA] - Assunto: Pegadinha sobre reprovação geral supostamente anunciada pelo reitor (Brincadeira e conversa paralela).
+
+
+
+--- CASO 07 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [MÉDIA] - Compartilhamento de material de estudo: Beatriz disponibilizou um resumo da Unidade 1 por meio de um link do Google Drive para ajudar os colegas nos estudos.
+
+- [BAIXA] - Divulgação de calourada: Beatriz compartilhou o link para compra de ingressos do lote promocional da festa universitária de amanhã. João confirmou que acessou os dois links.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA MÉDIA] - Assunto: Compartilhamento de resumo da Unidade 1 no Google Drive para auxiliar os estudos.
+
+[IMPORTANCIA BAIXA] - Assunto: Divulgação de link para compra de ingresso promocional da calourada de amanhã (Evento não acadêmico).
+
+
+
+--- CASO 08 ---
+
+[Prompt V1 - Zero-Shot]
+
+- [BAIXA] - Memes e figurinhas: Gabriel compartilhou um meme do Homem-Aranha e Rafael enviou uma figurinha do Vampeta. Lucas reagiu com risadas.
+
+- [BAIXA] - Conversa sobre futebol: Gabriel afirmou que o Vasco vencerá a partida, enquanto Caio discordou em tom de brincadeira.
+
+
+
+[Prompt V2 - Few-Shot]
+
+[IMPORTANCIA BAIXA] - Assunto: Compartilhamento de memes e figurinhas, seguido de conversa sobre o jogo do Vasco (Conversa paralela).
