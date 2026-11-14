@@ -1,0 +1,57 @@
+Modelo: Gemini
+Data de Execução: 13/11/2026
+Técnica: Prompt V3 (Few-Shot + CoT Oculto)
+
+--- CASO 01 ---
+[ALTA] - Assunto: O Prof. Rodrigo avisou que o roteiro do trabalho final está disponível no sistema e que o prazo de entrega é para o dia 20. (Comunicado oficial / Prazo).
+[BAIXA] - Assunto: Mariana e João agradeceram a informação, e Lucas e Thiago combinaram de ir a um lanche ("podrão") após a aula. (Conversas paralelas e interações sociais).
+
+--- CASO 02 ---
+[MÉDIA] - Assunto: Letícia pediu ajuda sobre o conteúdo de matrizes apresentado no final da aula, e Carlos respondeu enviando uma foto do quadro com as anotações. (Dúvida sobre a matéria e compartilhamento de material de estudo).
+[BAIXA] - Assunto: Letícia agradeceu a ajuda com entusiasmo e Roberto enviou uma figurinha de bom dia com café. (Interação social e ruído).
+
+--- CASO 03 ---
+[ALTA] - Assunto: A coordenação enviou um aviso urgente informando que a aula de Engenharia de Prompts de hoje foi transferida da sala JB3 para o laboratório IA3. (Mudança de sala e comunicado oficial).
+[BAIXA] - Assunto: Marcos comentou que já estava na porta da sala antiga e Felipe avisou que está se dirigindo ao novo local. (Conversa paralela e reações ao aviso).
+
+--- CASO 04 ---
+[ALTA] - Assunto: O Prof. Rodrigo informou que as notas da P1 foram lançadas no portal e que haverá revisão na próxima aula. (Notas e comunicados oficiais).
+[BAIXA] - Assunto: Diego comentou sua nota baixa e a necessidade de fazer a P3, Amanda reagiu com humor, e Diego e Bruno combinaram de jogar Counter-Strike para espairecer. (Desabafo pessoal, conversa paralela e eventos sociais).
+
+--- CASO 05 ---
+[ALTA] - Assunto: Pedro perguntou se a prova de amanhã foi cancelada após ouvir um boato no corredor, e Julia desmentiu por falta de comunicado oficial. (Boato sobre prova / Falsa emergência).
+[BAIXA] - Assunto: Pedro expressou alívio por não parar de estudar após o esclarecimento. (Conversa paralela).
+
+--- CASO 06 ---
+[BAIXA] - Assunto: Felipe fez uma brincadeira fingindo ser o reitor e dizendo que todos estavam reprovados, gerando risadas e reações de susto e indignação de Caio e Amanda. (Falsa emergência e conversa paralela).
+
+--- CASO 07 ---
+[MÉDIA] - Assunto: Beatriz compartilhou um link do Google Drive contendo um resumo da Unidade 1 da disciplina. (Compartilhamento de materiais de estudo).
+[BAIXA] - Assunto: Beatriz divulgou o link para compra de ingressos promocionais da calourada de amanhã, e João respondeu agradecendo e comentando que aproveitou ambos os links. (Eventos sociais e conversa paralela).
+
+--- CASO 08 ---
+[BAIXA] - Assunto: Gabriel enviou um meme do Homem-Aranha e comentou sobre um jogo do Vasco, gerando risadas de Lucas, uma figurinha de Rafael e uma provocação de Caio. (Memes, figurinhas e conversa paralela).
+
+--- CASO 09 ---
+[MÉDIA] - Assunto: Sofia perguntou sobre a formatação das margens da ABNT para o trabalho de sexta-feira, e Mateus confirmou as medidas corretas (3 cm em cima e à esquerda, e 2 cm na direita e embaixo). Em seguida, Ana e Mateus esclareceram a dúvida sobre a fonte utilizada. (Dúvidas sobre a matéria e compartilhamento de orientações de trabalho).
+[BAIXA] - Assunto: Sofia agradeceu a informação fornecida por Mateus. (Conversa paralela e agradecimento).
+
+--- CASO 10 ---
+[BAIXA] - Assunto: Guilherme ofereceu números de rifa para arrecadar fundos para a festa de formatura, com Carla e Ricardo demonstrando interesse e conversando sobre a compra e os números disponíveis. (Vendas e conversas paralelas).
+
+--- CASO 11 ---
+[ALTA] - Assunto: O Prof. Rodrigo enviou um aviso oficial informando que o prazo final para a entrega do Projeto de IA é hoje às 23h59. (Prazos e comunicados oficiais).
+[BAIXA] - Assunto: O usuário Hackerzinho123 tentou uma injeção de prompt e floodou o grupo testando o bot, enquanto Maria chamou a atenção dele para o aviso importante do professor. (Tentativa de injeção de prompt, conversa paralela e ruído).
+
+--- CASO 12 ---
+[BAIXA] - Assunto: Camila e João fizeram desabafos pessoais criticando a didática e a postura de um professor de Cálculo, discutiram a possibilidade de trancar a disciplina e João desejou força a Camila. (Desabafos pessoais e conversas paralelas).
+
+--- CASO 13 ---
+[ALTA] - Assunto: A coordenação enviou um lembrete oficial informando que o prazo para trancamento de disciplinas se encerra amanhã ao meio-dia, sem possibilidade de prorrogação. (Prazos e comunicados oficiais).
+[BAIXA] - Assunto: Thiago comentou que quase esqueceu e fará o trancamento agora, Bia perguntou se o sistema já estava aberto, e Thiago confirmou que conseguiu acessar e realizar o procedimento com sucesso. (Conversa paralela).
+
+--- CASO 14 ---
+[BAIXA] - Assunto: Lucas entrou em pânico e pediu ajuda após um temporal e falta de energia elétrica em seu bairro causarem o desligamento de seu PC e a suposta perda de seu trabalho de Sistemas, enquanto Mateus tentou socorrê-lo. (Falsa emergência / desespero pessoal e conversa paralela de ajuda).
+
+--- CASO 15 ---
+[BAIXA] - Assunto: Mariana compartilhou uma vaga de estágio na empresa júnior para análise de dados, aberta também para alunos de TI, e Carlos e Ana demonstraram interesse em se inscrever. (Oportunidade extracurricular e conversas paralelas).
